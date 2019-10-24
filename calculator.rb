@@ -1,2 +1,2 @@
 first_number = 6
-sencond_number = Integer
+sencond_number = 3
