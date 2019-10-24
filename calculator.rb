@@ -1,2 +1,2 @@
 first_number = 6
-sencond_number =
+sencond_number = Integer
